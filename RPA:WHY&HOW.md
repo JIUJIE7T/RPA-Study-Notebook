@@ -45,6 +45,15 @@ RPA, or Robotic Process Automation, is the technology that enables computer soft
 - Workforce Readiness and Learning
   - UiPath Academy
   - Academic Alliance
+  
+ 
+# Attended robots and Unattended Robots
+
+## Attended robots
+__Attended robots work on the same workstations as humans and execute some tasks of the entire process, after which they require human intervention.__
+
+## Unattended Robots
+__Unattended robots work independently of any human interaction. Also, they work on separate, virtual workstaitons.__
 
 # Vocabs
 - Invasive 侵入性的
