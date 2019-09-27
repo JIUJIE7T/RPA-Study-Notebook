@@ -8,3 +8,10 @@ RPA, or Robotic Process Automation, is the technology that enables computer soft
 - Operates any application
 - Reads and actions data in structured form
 
+# Overview of RPA in business
+
+## Examples of RPA in business
+
+1. Payroll Processing
+ - Payroll processing refers to the actions that companies take to pay their employees - keeping track of their presence, of their salaries, bonuses and taxes
+ - Payroll processing needs manual intervention month after month, every year. An RPA system can be used to extract the details that are required from handwritted time sheets and calculate the pay from their stipulated contracts and pay them as well (by even ordering the necessary bank transactions).
