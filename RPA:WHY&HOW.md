@@ -52,10 +52,26 @@ RPA, or Robotic Process Automation, is the technology that enables computer soft
 ## Attended robots
 __Attended robots work on the same workstations as humans and execute some tasks of the entire process, after which they require human intervention.__
 
+### When are they generally used
+In business scenarios that require input or decision making from the human user, or when a well-defined schedule cannot be applied due to the volatility of the process.
+
+### What are some specific scenarios in which Attended Robots are preferable
+- The automated process relies on data that needs to be validated by humans
+- The robot assists the human directly in performing his tasks
+- The automated task cannot be scheduled beforehand and needs manual triggering
+
+### How should the Attended Robots be
+- Responsive: when triggered, the attended robot needs to do his part in order to enable the human to take care of the no-automated tasks
+- User-friendly: the human user needs to be able to operate the robot easily
+- Flexibility: the Attended Robot needs to be able to navigate between different applications and environments.
+
+
+
 ## Unattended Robots
 __Unattended robots work independently of any human interaction. Also, they work on separate, virtual workstaitons.__
+
 
 # Vocabs
 - Invasive 侵入性的
 - mundane 平凡的，普通的
-- 
+- volatility 波动性
