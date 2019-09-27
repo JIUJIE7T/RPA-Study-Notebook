@@ -70,8 +70,22 @@ In business scenarios that require input or decision making from the human user,
 ## Unattended Robots
 __Unattended robots work independently of any human interaction. Also, they work on separate, virtual workstaitons.__
 
+### When are they generally used
+In manual, repetitive, highly rule-based back office activities, which do not require any human intervention.
+
+### What are some specific scenarios in which Unattended Robots are preferable
+- Tasks must be completed continuously in a batch-mode model
+- Large amounts of data have to be gathered, sorted, analyzed, and distributed amongst key players in an organization
+- The output of the automated process is needed as an input for humans in their work.
+
+### How should the Unattended Robots be
+- Flexible to deploy on virtual or remote environments: since the human intervention is minimal，The Unattended Robots are generally deployed to virtual or remote environments
+
+- Easy to scale: the Unattended Robots need to accommodate variation of task and data volumes
+- Accurate: because human intervention lacks or is minimal, the ouputs have to be reliable
 
 # Vocabs
 - Invasive 侵入性的
 - mundane 平凡的，普通的
 - volatility 波动性
+- intervention 介入
