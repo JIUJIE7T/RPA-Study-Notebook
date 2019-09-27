@@ -21,3 +21,32 @@ RPA, or Robotic Process Automation, is the technology that enables computer soft
 4. Statement Reconciliation
 5. Compliance Reporting
 6. Customer Complaint Processing
+
+## Why RPA is a good starting point for a company's digital transformation?
+
+1. RPA is no-invasive
+- It does not require any major IT architecture changes or deep integration
+2. RPA is easy to scale
+- The amount of work involved by a process can vary, as changes are likely to occur in most business environments.
+3. RPA is future proof
+
+# The future of work with RPA
+
+## UiPath's 3 pillars (This is for advertising)
+
+- Open Innovation
+  -  Product as freedownload
+  -  Open architecture and technology partner ecosystem
+  -  An entire community of developers, built around UiPath - Ui Path Connect, UiPath Go! and UiForum
+
+- Smarter technology with embedded AI
+  - UiPath Robots are built with 4 core embedded cognitive AI skills: Vishal Understanding, Document Understanding, Process Understanding, and Conversational Understanding;
+  - UiPath Robots can learn new skills specific to our customer's business and leverage skills that are also built by partners in our ecosystem.
+- Workforce Readiness and Learning
+  - UiPath Academy
+  - Academic Alliance
+
+# Vocabs
+- Invasive 侵入性的
+- mundane 平凡的，普通的
+- 
