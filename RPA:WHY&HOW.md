@@ -15,3 +15,9 @@ RPA, or Robotic Process Automation, is the technology that enables computer soft
 1. Payroll Processing
  - Payroll processing refers to the actions that companies take to pay their employees - keeping track of their presence, of their salaries, bonuses and taxes
  - Payroll processing needs manual intervention month after month, every year. An RPA system can be used to extract the details that are required from handwritted time sheets and calculate the pay from their stipulated contracts and pay them as well (by even ordering the necessary bank transactions).
+
+2. Client Information Updates
+3. Renewal Process
+4. Statement Reconciliation
+5. Compliance Reporting
+6. Customer Complaint Processing
