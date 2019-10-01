@@ -108,3 +108,13 @@ Here are the criteria determining how hard it is to automate a process
 - Infrastructure & IT Security admin
 - Process Owner
 - RPA Support
+
+# Automation solutions for business lines
+Here are some common internal processes across many industries that meet the criteria presented in the previous chapter and which companies should consider automating:
+
+- HR
+- IT Services
+- Employee services
+- Supply chain
+- Finance and accounting
+- Customer management
