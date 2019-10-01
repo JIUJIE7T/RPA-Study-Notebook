@@ -64,3 +64,31 @@ __A procedure explains:__
 ### Difference
 A Process is a series of related tasks or methods that together turn inputs into outputs while A procedure is a prescribed way of under taking a process or part of a process.
 
+## What makes a process a good candidate for automation
+- process fitness
+- automation complexity
+
+### process fitness
+#### Rule-based
+The decisions made (including data interpretaiton) in the process can be captured in a pre-defined logic. The exception rate is either low or can be included as well in the business logic.
+
+#### Automatable and/or repetitive process
+We can differentiate 4 types of processes:
+- Manual & non-repetitive: the process steps are performed by humans and can be different every time the process is executed.
+- Manual & repetitive: the steps in the process are performed by the user, and at least some of them are the same every time.
+- Semi-automated & repetitive: some of the repetitive steps have already been automated(using macros, Outlook rules, and so on)
+- Automated: there are processes that have been already automated using other technologies than RPA
+
+#### Standard input
+The input in the process should either be electronic and easily readable or readable using a technology that can be associated with RPA (such as OCR). A good example is an invoice having the fields pre-defined.
+
+#### Stable
+Processes that have been the same for a certain period of time and no changes are expected within the next months are good candidates for automation, provided they meet the other criteria as well.
+
+### Automation Complexity
+Here are the criteria determining how hard it is to automate a process
+- Number of Screens
+- Types of Applications
+- Business Logic Scenarios
+- Types and Number of Inputs
+
