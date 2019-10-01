@@ -118,3 +118,15 @@ Here are some common internal processes across many industries that meet the cri
 - Supply chain
 - Finance and accounting
 - Customer management
+
+# Industry-specific automation solutions
+
+## Banking 
+### Specific challenges & Why RPA is the solution
+1. RPA is easily customizable in order to keep up with the changing regulations
+2. RPA is no-intrusive, thus it can be adjusted as the environment changes.
+3. Robots ensure faster delivery and no errors, allowing banks to compete with more agile competitors(such as fintechs)
+
+# Vocabs
+- intrusive 碍事的
+- Dormancy 休眠
