@@ -60,3 +60,7 @@ __A procedure explains:__
 - when each part of the process needs to occur
 - how to handle exceptions
 - the specifications applicable to each part of the process.
+
+### Difference
+A Process is a series of related tasks or methods that together turn inputs into outputs while A procedure is a prescribed way of under taking a process or part of a process.
+
