@@ -45,4 +45,4 @@ For this you need to know the types of processes that can be automated, the fact
 __Definition__ : A process is a set of interrelated or interacting activities that transforms inputs into outputs.
 
 - __Components of a process:__
-
+ - Inputs
