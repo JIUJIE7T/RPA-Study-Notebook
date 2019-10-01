@@ -92,3 +92,11 @@ Here are the criteria determining how hard it is to automate a process
 - Business Logic Scenarios
 - Types and Number of Inputs
 
+# The RPA Journey
+## RPA implementation process
+1. Prepare RPA
+2. Solution Design
+3. Build RPA
+4. Test RPA
+5. Stablize RPA
+6. Constant Improvement
