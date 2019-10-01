@@ -84,6 +84,10 @@ In manual, repetitive, highly rule-based back office activities, which do not re
 - Easy to scale: the Unattended Robots need to accommodate variation of task and data volumes
 - Accurate: because human intervention lacks or is minimal, the ouputs have to be reliable
 
+# Determine the automation potential
+## Automation First mindset
+For this you need to know the types of processes that can be automated, the factors driving the automation potential, as well as the factors that increase the complexity of a process and make it more difficult to automate.
+
 # Vocabs
 - Invasive 侵入性的
 - mundane 平凡的，普通的
