@@ -100,3 +100,11 @@ Here are the criteria determining how hard it is to automate a process
 4. Test RPA
 5. Stablize RPA
 6. Constant Improvement
+
+## Positions in RPA implementaion process
+- Solution Architect
+- Business Analyst
+- Implementation Manager/Project Manager
+- Infrastructure & IT Security admin
+- Process Owner
+- RPA Support
