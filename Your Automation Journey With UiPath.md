@@ -38,3 +38,9 @@ In manual, repetitive, highly rule-based back office activities, which do not re
 # Determine the automation potential
 ## Automation First mindset
 For this you need to know the types of processes that can be automated, the factors driving the automation potential, as well as the factors that increase the complexity of a process and make it more difficult to automate.
+
+## Business Process and Procedure
+
+### What is a business process
+__Definition__ : A process is a set of interrelated or interacting activities that transforms inputs into outputs.
+
