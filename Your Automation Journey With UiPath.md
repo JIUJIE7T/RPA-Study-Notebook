@@ -44,3 +44,5 @@ For this you need to know the types of processes that can be automated, the fact
 ### What is a business process
 __Definition__ : A process is a set of interrelated or interacting activities that transforms inputs into outputs.
 
+- __Components of a process:__
+
